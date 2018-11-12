@@ -3,7 +3,7 @@
 
 ![minitalk][minitalk1]
 
-[minitalk1]: https://github.com/gbourgeo/42projects/blob/master/minitalk2/minitalk2.png
+[minitalk1]: https://github.com/gbourgeo/minitalk2/blob/master/minitalk2.png
 
 ### DESCRIPTION
 Minitalk2 let you tchat in your terminal the simplest way it can.
