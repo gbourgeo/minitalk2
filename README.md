@@ -24,9 +24,9 @@ Client:
 
 ### SERVER
 ### Norme
-None.
+- None.
 ### Support
-IPv4
+- IPv4
 ### FUNCTIONNALITIES
 None.
 ## AUTHOR
